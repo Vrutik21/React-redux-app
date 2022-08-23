@@ -106,7 +106,7 @@ const Header = () => {
                     />
                   </span>
                 ))}
-                <Link to="/cart">
+                <Link to="/React-redux-app/cart">
                   <Button style={{ width: "95%", margin: "0 10px" }}>
                     Go To Cart
                   </Button>
