@@ -21,7 +21,7 @@ const Header = () => {
     >
       <Container>
         <Navbar.Brand>
-          <Link to="/">Shopping Cart</Link>
+          <Link to="/React-redux-app">Shopping Cart</Link>
         </Navbar.Brand>
         <Navbar.Text className="m-auto w-50">
           <FormControl

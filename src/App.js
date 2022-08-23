@@ -10,8 +10,8 @@ function App() {
     <BrowserRouter>
       <Header />
       <Routes>
-        <Route path="/" exact element={<Home />}></Route>
-        <Route path="/cart" element={<Cart />} exact></Route>
+        <Route path="/React-redux-app" exact element={<Home />}></Route>
+        <Route path="/React-redux-app/cart" element={<Cart />} exact></Route>
       </Routes>
     </BrowserRouter>
   );
